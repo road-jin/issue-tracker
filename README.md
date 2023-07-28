@@ -1,16 +1,8 @@
 # issue-tracker-max
 
-2023 마스터즈 맥스 프로젝트 이슈 트래커
+## 👨‍👩‍👧‍👦 멤버 소개
 
-| team | members                                        | repository                                       |
-| ---- | ---------------------------------------------- | ------------------------------------------------ |
-| 1    |                                                |                                                  |
-| 2    |                                                |                                                  |
-| 3    |  |  |
-| 4    |  |  |
-| 5    |  |  |
-| 6    |  |  |
-| 7    |  |  |
-| 8    |  |  |
-
-* 팀 정보를 업데이트해서 main 브랜치로 PR 보내 주세요.
+| 프론트엔드 | 백엔드 | 벡엔드 |
+| :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/109706689?v=4" width="120"/>| <img src="https://avatars.githubusercontent.com/u/46990595?v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/86359180?v=4" width="120"/> |
+| **[litae](https://github.com/qkdflrgs)** | **[만두](https://github.com/road-jin)** |  **[Ape](https://github.com/crtEvent)** |
