@@ -14,7 +14,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
-
 import com.issuetracker.issue.domain.Issue;
 import com.issuetracker.issue.domain.IssueMapper;
 import com.issuetracker.issue.domain.IssueSearch;
