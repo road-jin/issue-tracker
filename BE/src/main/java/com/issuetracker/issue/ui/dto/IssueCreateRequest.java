@@ -13,7 +13,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
-@NoArgsConstructor(access = AccessLevel.PRIVATE)
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor
 @Getter
 public class IssueCreateRequest {
@@ -31,13 +31,14 @@ public class IssueCreateRequest {
 
 	private Long milestoneId;
 
-	public IssueCreateInputData toIssueCreateData() {
+	public IssueCreateInputData toIssueCreateData(Long authorId) {
 		return new IssueCreateInputData(
 			title,
 			content,
 			assigneeIds,
 			labelIds,
-			milestoneId
+			milestoneId,
+			authorId
 		);
 	}
 }
